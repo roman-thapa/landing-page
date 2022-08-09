@@ -61,5 +61,29 @@ button{
 
 .random-info{
     background-color: #E5E7EB;
-    margin: 0px;
+    padding: 30px;
+}
+
+.random-header{
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 25px;
+    color: #1F2937;
+}
+
+.random-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.random-image{
+    border-radius: 25px;
+}
+
+.random-text{
+    font-size: 18px;
+    text-align: center;
 }
