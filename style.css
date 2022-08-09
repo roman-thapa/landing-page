@@ -19,5 +19,9 @@ ul{
     display: flex;
     gap: 10px;
     font-size: 18px;
+}
+
+a{
+    text-decoration: none;
     color: #E5E7EB;
 }
