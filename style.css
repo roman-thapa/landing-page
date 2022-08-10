@@ -144,3 +144,11 @@ a{
     border-radius: 8px;
     color: #E5E7EB;
 }
+
+.footer{
+    background-color: #738598;
+    padding: 5%;
+    text-align: center;
+    font-size: 18px;
+    color: #3C415E;
+}
