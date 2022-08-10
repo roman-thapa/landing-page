@@ -63,7 +63,7 @@ button{
 
 .random-info{
     background-color: #E5E7EB;
-    padding: 30px;
+    padding: 5%;
 }
 
 .random-header{
@@ -88,4 +88,24 @@ button{
 .random-text{
     font-size: 18px;
     text-align: center;
+}
+
+.quote{
+    background-color: #F6F9FC;
+    padding: 7.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text{
+    font-size: 32px;
+    font-style: italic;
+}
+
+.quote-by{
+    font-size: 18px;
+    font-weight: bolder;
+    align-self: flex-end;
 }
