@@ -47,7 +47,7 @@ a{
     padding-bottom: 10px;
 }
 
-button{
+.button-sign-up{
     background-color: #3882F6;
     font-size: 18px;
     padding: 5px;
@@ -108,4 +108,39 @@ button{
     font-size: 18px;
     font-weight: bolder;
     align-self: flex-end;
+}
+
+.sign-up{
+    margin: 7.5%;
+    padding: 5%;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    gap: 25px;
+}
+
+.sign-main{
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.sign-text{
+    font-size: 18px;
+}
+
+.sign-up-button{
+    background-color: #3882F6;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 2px solid;
+    border-color: #E5E7EB;
+    border-radius: 8px;
+    color: #E5E7EB;
 }
